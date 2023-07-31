@@ -1,0 +1,29 @@
+{
+  "name": "cron-parser",
+  "version": "1.0.0",
+  "description": "Cron parser will parse the cron expression and return the timings in which provided command will run.",
+  "main": "cron.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadhuVaddi/cron-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadhuVaddi/cron-parser/issues"
+  },
+  "homepage": "https://github.com/MadhuVaddi/cron-parser#readme",
+  "devDependencies": {
+    "chai": "^4.3.7"
+  },
+  "dependencies": {
+    "jest": "^29.6.2",
+    "mocha": "^10.2.0"
+  }
+}
